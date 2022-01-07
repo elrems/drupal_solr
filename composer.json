@@ -3,7 +3,7 @@
     "description": " Drupal Solr module test",
     "keywords": ["drupal9","drupal8","drupal","symfony5"],
     "require": {
-        "drupal/drupal-project"
+        "drupal/drupal-project": "*"
     },
     "license": "MIT",
     "type":"drupal-module"
