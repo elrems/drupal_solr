@@ -1,7 +1,7 @@
 {
     "name": "elrems/drupal-solr",
     "description": " Drupal Solr module test",
-    "keywords": ["drupal9","drupal8","drupal"],
+    "keywords": ["drupal9","drupal8","drupal","symfony5"],
     "require": {
         "drupal/drupal-project",
     },
