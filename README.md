@@ -1,5 +1,6 @@
 # drupal-solr
-test drupal solr module
+test drupal solr module 
+Branche MAIN
 
 
 # Description du projet
