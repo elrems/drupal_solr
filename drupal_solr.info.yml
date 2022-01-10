@@ -1,0 +1,6 @@
+name: drupal-solr
+type: module
+description: drupal solr example module
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

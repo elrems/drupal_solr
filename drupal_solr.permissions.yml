@@ -1,0 +1,4 @@
+administer drupal_solr configuration:
+  title: 'Administer drupal_solr configuration'
+  description: 'Optional description.'
+  restrict access: true

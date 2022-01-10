@@ -1,0 +1,6 @@
+services:
+  drupal_solr.event_subscriber:
+    class: Drupal\drupal_solr\EventSubscriber\DrupalSolrSubscriber
+    arguments: ['@messenger']
+    tags:
+      - { name: event_subscriber }

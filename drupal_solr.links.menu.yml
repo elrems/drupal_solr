@@ -1,0 +1,6 @@
+drupal_solr.settings_form:
+  title: drupal-solr
+  description: Configure drupal-solr.
+  parent: system.admin_config_system
+  route_name: drupal_solr.settings_form
+  weight: 10
