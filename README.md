@@ -1,5 +1,5 @@
 # drupal-solr
-test drupal solr module
+test drupal solr module pour envoyer des messages.
 
 
 # Description du projet
